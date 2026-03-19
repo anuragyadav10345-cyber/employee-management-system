@@ -1,16 +1,90 @@
-# React + Vite
+# Employee Management System 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 Overview
 
-Currently, two official plugins are available:
+This is a simple Employee Management System built to manage employees and assign tasks efficiently.
+The project currently uses **LocalStorage** for data persistence and is planned to be upgraded with a backend in the future.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* Add new employees 👨‍💼
+* Assign tasks to employees 📋
+* Update task status ✅
+* Delete employees ❌
+* Data stored in browser using LocalStorage 💾
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+* Frontend: React.js ⚛️
+* Styling: CSS / Tailwind CSS 🎨
+* Storage: LocalStorage
+
+---
+
+## 🚀 Future Improvements
+
+* Backend integration (Node.js / Laravel)
+* Database (MongoDB / MySQL)
+* User authentication (Login/Signup) 🔐
+* Role-based access (Admin/Employee)
+
+---
+
+## 📷 Screenshots
+
+(Add your project screenshots here)
+
+---
+
+## ⚙️ Installation & Setup
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/employee-management-system.git
+```
+
+2. Navigate to project folder:
+
+```bash
+cd employee-management-system
+```
+
+3. Install dependencies:
+
+```bash
+npm install
+```
+
+4. Run the project:
+
+```bash
+npm run dev
+```
+
+---
+
+## 📚 Learning Outcome
+
+* Learned React fundamentals and state management
+* Understood LocalStorage for data handling
+* Built a real-world project structure
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to fork and improve the project.
+
+---
+
+## 📧 Contact
+
+
+GitHub – https://github.com/your-username
+
+---
